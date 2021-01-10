@@ -1,0 +1,1 @@
+{"literatureNoteTitleTemplate":"@{{citekey}}","literatureNoteFolder":"Reading notes","literatureNoteContentTemplate":"---\ntitle: {{title}}\nauthors: {{authorString}}\nyear: {{year}}\n---\n\n","citationExportPath":"/home/amir/Desktop/MyWork/Software/zotero_plugins/bib.json"}

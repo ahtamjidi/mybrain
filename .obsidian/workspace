@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "354dc87985d16007",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f1b54294159a600",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "video",
+          "state": {
+            "file": "Untitled recording.webm"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "590bc8b8f170adcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "31560c455c408c42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af6352c46e0fe56d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "03b38c18df17a1e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "python",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9f49c8b84cfb30a8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "730386aca2619eca",
+    "type": "split",
+    "children": [
+      {
+        "id": "40d20bb290b00458",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "92d172914a83470f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled recording.webm",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "802fc6e409c5d2f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c6b7ecfd2a3627a6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled recording.webm"
+              }
+            }
+          },
+          {
+            "id": "a6645efaae9f42db",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "7d579c41d5a06628",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78612e6603e697db",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Untitled recording.webm",
+    "Pasted image 20201206194421.png",
+    "Pasted image 20201206194403.png",
+    "Pasted image 20201206151344.png",
+    "Flashcards/Programming.md",
+    "Flashcards/Untitled.md",
+    "Flash2.md",
+    "Flashcard.md",
+    "Untitled 1.md",
+    "HowTo/How to hold a virtual conference.md"
+  ]
+}

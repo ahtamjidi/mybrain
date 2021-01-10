@@ -1,0 +1,1 @@
+Roumeliotis, S. I., & Bekey, G. A. (2000). Distributed multi-robot localization. In _Distributed Autonomous Robotic Systems 4_ (pp. 179-188). Springer, Tokyo. [link](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.93.5133&rep=rep1&type=pdf)

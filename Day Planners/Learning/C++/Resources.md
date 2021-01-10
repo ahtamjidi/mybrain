@@ -1,0 +1,2 @@
+## Youtube channels
+1. [arisaif](https://www.youtube.com/c/arisaif/videos) I first saw his [C++ Multi Threading Part 3: Atomic Variables and Memory Models](https://www.youtube.com/watch?v=IE6EpkT7cJ4) video when I was studying C++ Memory Model. The channel has other good quality C++ related videos.
