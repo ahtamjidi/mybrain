@@ -1,0 +1,3 @@
+- [Font size control of LateX previews in Org files](https://emacs.stackexchange.com/questions/19880/font-size-control-of-latex-previews-in-org-files)
+- [An Annotated Spacemacs](https://out-of-cheese-error.netlify.app/spacemacs-config "Permalink to An Annotated Spacemacs")
+- [**Strange problem loading org features in Emacs 27.1**](https://orgmode.org/list/CAJ51EToGbas5EfN03C-bd-Ws46X-ED37mMU3tdbuLh41f9N1hQ@mail.gmail.com/T/)
