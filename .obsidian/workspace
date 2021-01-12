@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Literature Review/Untitled.md",
+            "file": "Learn/Emacs.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Literature Review/Untitled.md",
+                "file": "Learn/Emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Literature Review/Untitled.md"
+                "file": "Learn/Emacs.md"
               }
             }
           },
@@ -137,6 +137,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Learn/Emacs.md",
+    "FAQ/Resources.md",
     "Literature Review/Untitled.md",
     "Learn/Untitled.md",
     "Untitled recording.webm",
@@ -144,8 +146,6 @@
     "Pasted image 20201206194403.png",
     "Pasted image 20201206151344.png",
     "Flashcards/Programming.md",
-    "Flashcards/Untitled.md",
-    "Flash2.md",
-    "Flashcard.md"
+    "Flashcards/Untitled.md"
   ]
 }
