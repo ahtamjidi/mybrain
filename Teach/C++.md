@@ -4,9 +4,11 @@ Please first read [Teach Yourself Programming in Ten Years](https://norvig.com/2
 We will first focus on the syntax of the language and basic knowledge of STL.  If you have some programming background a couple of good resources to brush up you C++ knowledge are 
 - Book:  Stroustrup, B. (2018). "[A Tour of C++](https://www.amazon.com/Tour-C-Depth-ebook-dp-B07FW7P3D3/dp/B07FW7P3D3/ref=mt_other?_encoding=UTF8&me=&qid=)". Addison-Wesley Professional.
 - Short Videos: These [series of short videos](https://www.youtube.com/channel/UCEOGtxYTB6vo6MQ-WQ9W_nQ) by Bo Qian. 
-- For more in depth overview of the basics of C++ features the Back to Basics track of the [cppcon](https://cppcon.org/) [releases](https://www.youtube.com/user/CppCon/playlists) free and quality instructional videos. 
+- For more in depth overview of the basics of C++ features the Back to Basics track of the [cppcon](https://cppcon.org/) [releases](https://www.youtube.com/user/CppCon/playlists) free and quality instructional videos.  Many times you will find that videos from other [cpp conferences](https://isocpp.org/wiki/faq/conferences-worldwide) (again free) are very useful. 
 - The [6 part video series](https://www.aristeia.com/videos.html) on Effective Modern C++ by [Scott Meyers](https://www.aristeia.com/)
 -  Blogs: [GotW](http://www.gotw.ca/gotw/) and [Fluent C++](https://www.fluentcpp.com/posts/) (I like the idea of "Daily C++ session" . Look for the post marked with it and you can read short practical C++ articles everyday.)
+
+You can practice on your machine or use [compiler explorer](https://godbolt.org/)  (and leverage [https://cppinsights.io/](cppinsights) to learn what the compiler is doing behind the scenes. )
 
 
 [CppCon 2018: Jonathan Boccara “105 STL Algorithms in Less Than an Hour”](https://www.youtube.com/watch?v=2olsGf6JIkU)
