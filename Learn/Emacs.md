@@ -30,3 +30,5 @@ use-package org-drill
     (add-hook 'org-mode-hook 'org-fragtog-mode)
 ```
 and then ran `~/.emacs.d/bin/doom sync` in the terminal and for changing the default font size for latex formulas when in an org file I did `Ctrl + v h` and then typed `org-format-latex-options` and change the scale to your liking (watch [this video](https://sachachua.com/blog/2014/04/emacs-basics-customizing-emacs/) if for an alternative way of changing the scale option specially if you have no idea what is happening.)
+
+This [blog post](https://rgoswami.me/posts/anki-decks-orgmode/) explains how to use emacs with [anki](https://apps.ankiweb.net/).

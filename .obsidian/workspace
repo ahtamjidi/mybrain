@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learn/Emacs.md",
+            "file": "Teach/C++.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Emacs.md",
+                "file": "Teach/C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/Emacs.md"
+                "file": "Teach/C++.md"
               }
             }
           },
@@ -137,15 +137,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Teach/C++.md",
+    "Teach/Untitled.md",
+    "Teach/Untitled 1.md",
+    "Untitled 1.md",
     "Learn/Emacs.md",
     "FAQ/Resources.md",
     "Literature Review/Untitled.md",
     "Learn/Untitled.md",
     "Untitled recording.webm",
-    "Pasted image 20201206194421.png",
-    "Pasted image 20201206194403.png",
-    "Pasted image 20201206151344.png",
-    "Flashcards/Programming.md",
-    "Flashcards/Untitled.md"
+    "Pasted image 20201206194421.png"
   ]
 }
