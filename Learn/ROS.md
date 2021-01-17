@@ -41,3 +41,6 @@ Today at
 ## Resources 
 - [Robotics Recap: Learning, Programming & Snapping ROS 2](https://ubuntu.com/blog/robotics-recap-learning-programming-and-snapping-ros-2) I learned about lxd (linux containers) and how we can use them to install ROS from articles in here.
 - [ROS 2 tutorials](https://index.ros.org/doc/ros2/Tutorials/)
+- [ROS 2 Video tutorials from the construct](https://www.youtube.com/playlist?list=PLK0b4e05LnzYNBzqXNm9vFD9YXWp6honJ)
+- [Install ROS in an LXD Container](https://www.youtube.com/watch?v=bFJp7WAfcXk&feature=emb_title)
+- [Roscon videos](https://index.ros.org/doc/ros2/ROSCon-Content/) #video #conference #ros 
