@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Teach/C++.md",
+            "file": "Learn/ROS.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "python",
+                "query": "ros",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Teach/C++.md",
+                "file": "Learn/ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Teach/C++.md"
+                "file": "Learn/ROS.md"
               }
             }
           },
@@ -137,15 +137,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Learn/ROS.md",
+    "Day Planners/Learning/Python/Resources.md",
+    "Learn/Python/Python.md",
+    "Day Planners/Day Planner-20201213.md",
+    "Untitled 2.md",
+    "Learn/Untitled.md",
     "Teach/C++.md",
     "Teach/Untitled.md",
     "Teach/Untitled 1.md",
-    "Untitled 1.md",
-    "Learn/Emacs.md",
-    "FAQ/Resources.md",
-    "Literature Review/Untitled.md",
-    "Learn/Untitled.md",
-    "Untitled recording.webm",
-    "Pasted image 20201206194421.png"
+    "Untitled 1.md"
   ]
 }

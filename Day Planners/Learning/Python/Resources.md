@@ -1,5 +1,6 @@
 This interactive python coding challenge in github has some flashcards and seems very interesting
 https://github.com/donnemartin/interactive-coding-challenges #python #interview
+[[ROS]]
 
 This website has programming idioms including for python
 https://www.programming-idioms.org/idiom/37/currying

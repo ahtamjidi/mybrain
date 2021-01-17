@@ -33,8 +33,13 @@
   }
 }
 
-ul#citationTemplateVariables .text-monospace {
+#zoteroSettingTab .text-monospace {
   font-family: monospace;
+}
+
+.zoteroModalResults .suggestion-item {
+  height: fit-content;
+  line-height: 1.5rem;
 }
 
 .zoteroTitle {
