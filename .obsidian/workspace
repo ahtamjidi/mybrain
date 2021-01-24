@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learn/Emacs.md",
+            "file": "Plan/Retirement.md",
             "mode": "source"
           }
         }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Emacs.md",
+                "file": "Plan/Retirement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/Emacs.md"
+                "file": "Plan/Retirement.md"
               }
             }
           },
@@ -138,6 +137,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Plan/Retirement.md",
+    "Plan/Untitled.md",
     "Learn/Emacs.md",
     "Flashcard.md",
     "FAQ/Resources.md",
@@ -145,8 +146,6 @@
     "Productivity/TiddlyWiki.md",
     "Daily Notes/2020-12-03.md",
     "Literature Review/Untitled.md",
-    "Productivity/Untitled.md",
-    "Daily Notes/2021-01-01.md",
-    "Research/Autonomous Cars.md"
+    "Productivity/Untitled.md"
   ]
 }

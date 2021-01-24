@@ -61,4 +61,7 @@ It took me sometime to realize that I have to enable `anki-editor-mode` so that 
 >Double check that you've enabled `anki-editor-mode` before trying to push. I think it's a bit confusing but enabling the mode wraps some exports with advice functions which properly handle image links. ([source](https://github.com/louietan/anki-editor/issues/30))
 
 ### Writing blog from org mode
-Tools are [here](https://orgmode.org/worg/org-blog-wiki.html) and apparently Hugo supports org-mode files out of the box but I have not checked it. 
+Tools are [here](https://orgmode.org/worg/org-blog-wiki.html) and apparently Hugo supports 
+
+## Engineering notebook
+[Capturing Content for Emacs](http://howardism.org/Technical/Emacs/capturing-content.html): Very interesting ideas on how to capture code and web content when you are working on a project.	
