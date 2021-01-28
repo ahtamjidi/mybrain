@@ -65,3 +65,9 @@ Tools are [here](https://orgmode.org/worg/org-blog-wiki.html) and apparently Hug
 
 ## Engineering notebook
 [Capturing Content for Emacs](http://howardism.org/Technical/Emacs/capturing-content.html): Very interesting ideas on how to capture code and web content when you are working on a project.	
+
+## OCR inside emacs
+https://askubuntu.com/questions/280475/how-can-instantaneously-extract-text-from-a-screen-area-using-ocr-tools
+
+## Scratch pad
+https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki
