@@ -71,3 +71,6 @@ https://askubuntu.com/questions/280475/how-can-instantaneously-extract-text-from
 
 ## Scratch pad
 https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki
+
+## learn elisp
+https://www.youtube.com/playlist?list=PL3kg5TcOuFlpyqiZspzlkk6Ro66nQdESz
