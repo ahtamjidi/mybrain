@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0f7d4265072eefd9",
+        "id": "50d3e7cbf34b087f",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learn/Automative Electronics, Mechanics, Dynamics.md",
+            "file": "Learn/Emacs.md",
             "mode": "preview"
           }
         }
@@ -40,8 +40,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
-                "matchingCase": false,
+                "query": "emacs",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -57,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Automative Electronics, Mechanics, Dynamics.md",
+                "file": "Learn/Emacs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,19 +104,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/Automative Electronics, Mechanics, Dynamics.md"
+                "file": "Learn/Emacs.md"
               }
             }
           },
           {
-            "id": "a6645efaae9f42db",
+            "id": "37c9d10cd5b9970b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7d579c41d5a06628",
@@ -133,19 +135,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287,
-    "collapsed": true
+    "width": 287
   },
   "lastOpenFiles": [
-    "Learn/Untitled.md",
-    "Productivity/Untitled.md",
-    "Learn/Large Scale Software Development.md",
     "Learn/Emacs.md",
-    "Plan/Retirement.md",
-    "Plan/Untitled.md",
-    "Flashcard.md",
-    "FAQ/Resources.md",
-    "Learn/ROS.md",
-    "Productivity/TiddlyWiki.md"
+    "Learn/Optimization.md",
+    "Learn/Untitled.md",
+    "Productivity/Methodolofy.md",
+    "Learn/cpp/Untitled.md",
+    "Daily Notes/2021-01-28.md",
+    "Daily Notes/2021-01-30.md",
+    "Template Format/Untitled.md",
+    "Untitled 3.md",
+    "Template Format/Basic FC.md"
   ]
 }

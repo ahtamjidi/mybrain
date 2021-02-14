@@ -74,3 +74,23 @@ https://lobste.rs/s/e5lx5p/what_note_taking_team_wiki_personal_wiki
 
 ## learn elisp
 https://www.youtube.com/playlist?list=PL3kg5TcOuFlpyqiZspzlkk6Ro66nQdESz
+
+## [Resources](https://emacs.sexy/#resources)
+
+Emacs is used by very happy hackers all around the globe. Lots of them are willing to help you get started or share the path they've walked along Emacs with you. It's dangerous to go alone; take this:
+
+-   [The Emacs Manual](http://www.gnu.org/software/emacs/manual/html_node/emacs/index.html "The Emacs Manual") — Official GNU Emacs manual. See more manuals [here](http://www.gnu.org/software/emacs/manual/).
+-   [Emacs Wiki](http://www.emacswiki.org/ "EmacsWiki") — a collection of useful information regarding Emacs and Emacs Lisp, its extension language.
+-   [Planet Emacsen](https://planet.emacslife.com/ "Planet Emacsen") — An Emacs planet collecting posts from many Emacs blogs.
+-   [Mastering Emacs](http://www.masteringemacs.org/ "Mastering
+    Emacs") — A blog about mastering the world's best text editor.
+-   [Emacs Rocks](http://emacsrocks.com/ "Emacs Rocks") — a series of videos teaching about Emacs. Includes a series on extending it.
+-   [What the .emacs.d!?](http://whattheemacsd.com/ "What the
+    .emacs.d!?") — Blog from the same author as Emacs Rocks, about setting up your .emacs.d.
+-   [Using Emacs Series](https://cestlaz.github.io/stories/emacs/ "Using Emacs Series") — Tutorial screencasts for Emacs.
+-   [Awesome Emacs](https://github.com/emacs-tw/awesome-emacs "Awesome Emacs") — A community driven list of useful Emacs packages, libraries and others.
+-   [/r/emacs](http://reddit.com/r/emacs "Emacs Subreddit") — Reddit is a virtual community of (generally) very nice people. You can create an account there and share your questions, progress and snippets about Emacs on the Emacs subreddit.
+-   [Emacs StackExchange](http://emacs.stackexchange.com/ "Emacs Stackexchange") — Q&A site for those using, extending or developing emacs.
+-   [Spacemacs](https://github.com/syl20bnr/spacemacs#introduction) — An Emacs distribution, uses Evil Mode to combine the ergonomic editing features of Vim with the extensibility of Emacs.
+-   [Doom Emacs](https://github.com/hlissner/doom-emacs) — Minimalistic modern Emacs distribution that is light and fast.
+-   [Emacs Bootstrap](http://www.emacs-bootstrap.com/) — Generate on-the-fly Emacs development environment. It lets you select the programming languages you work with and generates enough Emacs config files to get you started.
