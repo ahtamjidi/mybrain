@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "50d3e7cbf34b087f",
+        "id": "3840585059f274a1",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Learn/Emacs.md",
-            "mode": "preview"
+            "file": "Learn/Music/Harmony.md",
+            "mode": "source"
           }
         }
       }
@@ -40,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emacs",
+                "query": "music",
                 "matchingCase": true,
                 "explainSearch": true,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -57,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Learn/Emacs.md",
+                "file": "Learn/Music/Harmony.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,12 +103,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Learn/Emacs.md"
+                "file": "Learn/Music/Harmony.md"
               }
             }
           },
           {
-            "id": "37c9d10cd5b9970b",
+            "id": "4d60ca8e22a89eb5",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -117,7 +116,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7d579c41d5a06628",
@@ -138,15 +137,15 @@
     "width": 287
   },
   "lastOpenFiles": [
-    "Learn/Emacs.md",
+    "Learn/Music/Harmony.md",
+    "Learn/Music/Untitled.md",
+    "Learn/ROS.md",
+    "Daily Notes/2021-03-02.md",
+    "Daily Notes/2021-02-20.md",
     "Learn/Optimization.md",
-    "Learn/Untitled.md",
-    "Productivity/Methodolofy.md",
-    "Learn/cpp/Untitled.md",
-    "Daily Notes/2021-01-28.md",
-    "Daily Notes/2021-01-30.md",
-    "Template Format/Untitled.md",
-    "Untitled 3.md",
-    "Template Format/Basic FC.md"
+    "Daily Notes/2021-02-17.md",
+    "Learn/Machine Learning/Read.md",
+    "Learn/Machine Learning/Untitled.md",
+    "Learn/Emacs.md"
   ]
 }

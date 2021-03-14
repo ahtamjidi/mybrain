@@ -51,5 +51,6 @@ Today at
 - [ROS 2 Video tutorials from the construct](https://www.youtube.com/playlist?list=PLK0b4e05LnzYNBzqXNm9vFD9YXWp6honJ)
 - [Install ROS in an LXD Container](https://www.youtube.com/watch?v=bFJp7WAfcXk&feature=emb_title)
 - [Roscon videos](https://index.ros.org/doc/ros2/ROSCon-Content/) #video #conference #ros 
+- [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/index.html)
 
 CS-27 for ROS on UAV
