@@ -79,6 +79,8 @@ For a better discussion of this topic than I may hope to render in a few paragra
 - [Songs that use the Dorian mode](https://www.youtube.com/watch?v=n_Zzztd5ZCk)  very good examples.
 - [The Modes Ranked by Brightness](https://www.youtube.com/watch?v=jNY_ZCUBmcA)
 
+![[Pasted image 20210315225139.png]]
+
 ## Books and full courses
 - [Music Theory for the 21st-Century Classroom](http://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
 - [Seth Monahan](https://www.youtube.com/c/SethMonahan/videos)
