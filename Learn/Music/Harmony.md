@@ -77,6 +77,7 @@ For a better discussion of this topic than I may hope to render in a few paragra
 - [The Association - Along Comes Mary](https://www.youtube.com/watch?v=sYJhhKSXOBo) is in Dorian
 - [Examples of Modes in songs and rock music](https://www.christybannerman.com/examples-of-modes-in-songs-and-rock-music/)
 - [Songs that use the Dorian mode](https://www.youtube.com/watch?v=n_Zzztd5ZCk)  very good examples.
+- [The Modes Ranked by Brightness](https://www.youtube.com/watch?v=jNY_ZCUBmcA)
 
 ## Books and full courses
 - [Music Theory for the 21st-Century Classroom](http://musictheory.pugetsound.edu/mt21c/MusicTheory.html)
