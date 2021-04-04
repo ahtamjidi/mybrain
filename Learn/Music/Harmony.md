@@ -78,6 +78,7 @@ For a better discussion of this topic than I may hope to render in a few paragra
 - [Examples of Modes in songs and rock music](https://www.christybannerman.com/examples-of-modes-in-songs-and-rock-music/)
 - [Songs that use the Dorian mode](https://www.youtube.com/watch?v=n_Zzztd5ZCk)  very good examples.
 - [The Modes Ranked by Brightness](https://www.youtube.com/watch?v=jNY_ZCUBmcA)
+- [Modal Interchange | Music with Myles](https://www.youtube.com/watch?v=1dRA28cdt5c)
 
 ![[Pasted image 20210315225139.png]]
 
@@ -89,3 +90,16 @@ For a better discussion of this topic than I may hope to render in a few paragra
 
 ## People
 - [Alan Belkin](https://www.youtube.com/channel/UCUQ0TcIbY_VEk_KC406pRpg/playlists) for his harmony courses (modern/applied)
+- [ David E. Farrell](https://www.youtube.com/c/DavidEFarrell/videos) some good music theory videos
+![[Pasted image 20210316234657.png]]
+- [ Richard Atkinson](https://www.youtube.com/user/richardatkinson2108/playlists) has music analysis videos where he highlights parts of the music score he is talking about. 
+![[Pasted image 20210316234553.png]]
+- [Rick Beato](https://www.youtube.com/c/RickBeato/playlists)
+![[Pasted image 20210316234917.png]]
+Ref
+https://www.ultimate-tabs.com/ella-fitzgerald/my-romance-chords
+
+## Persian Music
+- [Alireza Mashayekhi](https://www.youtube.com/playlist?list=PLa8QV3F6USJYwgmR9qYHGN4wMlU5dU_oM)
+- [Layla Ramezan](https://www.youtube.com/channel/UCY2mTYPJ9PZ0hCOnaHzEIrg)
+- [Layla Ramezan & Keyvan Chemirani en concert- Scène nationale de St-Quantin-en-Yvelines](https://www.youtube.com/watch?v=jr7nhhIWaZ0)
