@@ -11,7 +11,7 @@
           "type": "markdown",
           "state": {
             "file": "Daily Notes/2021-04-01.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -109,7 +109,7 @@
             }
           },
           {
-            "id": "59ac1c90f35e8ce5",
+            "id": "d9820a7095db7d3e",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -117,7 +117,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "7d579c41d5a06628",
