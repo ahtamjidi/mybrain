@@ -52,5 +52,6 @@ Today at
 - [Install ROS in an LXD Container](https://www.youtube.com/watch?v=bFJp7WAfcXk&feature=emb_title)
 - [Roscon videos](https://index.ros.org/doc/ros2/ROSCon-Content/) #video #conference #ros 
 - [ROS Industrial (Melodic) Training Exercises](https://industrial-training-master.readthedocs.io/en/melodic/index.html)
+- [ ] [ROS with Docker](https://tuw-cpsg.github.io/tutorials/docker-ros/) #ros has examples of how to use the host workspace as a volume in docker
 
 CS-27 for ROS on UAV

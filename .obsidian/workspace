@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Daily Notes/2021-04-01.md",
+            "file": "Learn/ROS.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"rent\"",
+                "query": "ROS",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/2021-04-01.md",
+                "file": "Learn/ROS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2021-04-01.md"
+                "file": "Learn/ROS.md"
               }
             }
           },
@@ -138,12 +138,12 @@
     "width": 287
   },
   "lastOpenFiles": [
+    "Learn/ROS.md",
     "Daily Notes/2021-04-01.md",
     "Daily Notes/2020-12-02.md",
     "Learn/Music/Harmony.md",
     "Daily Notes/2021-03-14.md",
     "Learn/Music/Untitled.md",
-    "Learn/ROS.md",
     "Daily Notes/2021-03-02.md",
     "Daily Notes/2021-02-20.md",
     "Learn/Optimization.md",
